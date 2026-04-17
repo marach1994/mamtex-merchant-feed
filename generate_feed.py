@@ -89,9 +89,9 @@ def process(raw_csv: str) -> tuple[list[dict], list[str]]:
 
         rows.append({
             "id": product_id,
-            "g:custom_label_2": label,
-            "g:custom_label_3": supplier,
-            "g:custom_label_4": action_label,
+            "custom_label_2": label,
+            "custom_label_3": supplier,
+            "custom_label_4": action_label,
         })
 
     return rows, skipped
@@ -102,7 +102,7 @@ def write_tsv(rows: list[dict], path: str) -> None:
     with open(path, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
             f,
-            fieldnames=["id", "g:custom_label_2", "g:custom_label_3", "g:custom_label_4"],
+            fieldnames=["id", "custom_label_2", "custom_label_3", "custom_label_4"],
             delimiter="\t",
         )
         writer.writeheader()
