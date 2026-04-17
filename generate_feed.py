@@ -76,10 +76,22 @@ def process(raw_csv: str) -> tuple[list[dict], list[str]]:
         rounded = round_margin(margin_pct)
         label = format_margin(rounded)
 
+        action_label = ""
+        action_raw = record.get("actionPrice", "").strip()
+        if action_raw:
+            try:
+                action_price = parse_price(action_raw)
+                if action_price > 0:
+                    action_margin = (action_price - purchase) / action_price * 100
+                    action_label = format_margin(round_margin(action_margin))
+            except ValueError:
+                pass
+
         rows.append({
             "id": product_id,
             "g:custom_label_2": label,
             "g:custom_label_3": supplier,
+            "g:custom_label_4": action_label,
         })
 
     return rows, skipped
@@ -90,7 +102,7 @@ def write_tsv(rows: list[dict], path: str) -> None:
     with open(path, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
             f,
-            fieldnames=["id", "g:custom_label_2", "g:custom_label_3"],
+            fieldnames=["id", "g:custom_label_2", "g:custom_label_3", "g:custom_label_4"],
             delimiter="\t",
         )
         writer.writeheader()
