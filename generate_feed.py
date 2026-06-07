@@ -36,7 +36,7 @@ def parse_price(value: str) -> float:
     return float(value.replace(",", ".").strip())
 
 
-def round_margin(margin_pct: float, step: float = 2.5) -> float:
+def round_margin(margin_pct: float, step: float = 5) -> float:
     """Round half up (5;7.5;10...), unlike Python's round() which rounds half to even."""
     return math.floor(margin_pct / step + 0.5) * step
 
