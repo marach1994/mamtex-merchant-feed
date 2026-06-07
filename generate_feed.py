@@ -1,6 +1,7 @@
 import csv
 import io
 import logging
+import math
 import os
 import time
 import requests
@@ -36,7 +37,8 @@ def parse_price(value: str) -> float:
 
 
 def round_margin(margin_pct: float, step: float = 2.5) -> float:
-    return round(margin_pct / step) * step
+    """Round half up (5;7.5;10...), unlike Python's round() which rounds half to even."""
+    return math.floor(margin_pct / step + 0.5) * step
 
 
 def format_margin(rounded: float) -> str:
