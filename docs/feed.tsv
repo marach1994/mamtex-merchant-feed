@@ -2263,7 +2263,7 @@ XA1786053	45
 2090564	55	Novatex	15
 209059	55	Novatex	50
 2090678	55	Novatex	50
-209090	55	Novatex	50
+209090	55	Novatex	20
 209635	55	Novatex	50
 209757	55	Novatex	50
 209944	55	Novatex	50
@@ -20800,107 +20800,107 @@ FARINA6	45	Tenatex	40
 FARINA7	45	Tenatex	40
 FARINA8	45	Tenatex	40
 FARINA9	45	Tenatex	40
-VELVET 2200	15	kameleon-pro	15
-VELVET 2201	65	kameleon-pro	15
+VELVET 2200	15	kameleon-pro	0
+VELVET 2201	65	kameleon-pro	55
 VELVET 2202	65	kameleon-pro	55
-VELVET 2203	65	kameleon-pro	15
-VELVET 2204	15	kameleon-pro	15
-VELVET 2205	65	kameleon-pro	15
-VELVET 2206	15	kameleon-pro	15
-VELVET 2207	65	kameleon-pro	15
-VELVET 2208	65	kameleon-pro	15
-VELVET 2209	65	kameleon-pro	15
-VELVET 2210	65	kameleon-pro	15
-VELVET 2211	15	kameleon-pro	15
-VELVET 2212	15	kameleon-pro	15
-VELVET 2213	15	kameleon-pro	15
-VELVET 2214	15	kameleon-pro	15
-VELVET 2215	15	kameleon-pro	15
-VELVET 2216	15	kameleon-pro	15
-VELVET 2217	65	kameleon-pro	15
-VELVET 2218	65	kameleon-pro	15
+VELVET 2203	65	kameleon-pro	55
+VELVET 2204	15	kameleon-pro	0
+VELVET 2205	65	kameleon-pro	55
+VELVET 2206	15	kameleon-pro	0
+VELVET 2207	65	kameleon-pro	55
+VELVET 2208	65	kameleon-pro	55
+VELVET 2209	65	kameleon-pro	55
+VELVET 2210	65	kameleon-pro	55
+VELVET 2211	15	kameleon-pro	0
+VELVET 2212	15	kameleon-pro	0
+VELVET 2213	15	kameleon-pro	0
+VELVET 2214	15	kameleon-pro	0
+VELVET 2215	15	kameleon-pro	0
+VELVET 2216	15	kameleon-pro	0
+VELVET 2217	65	kameleon-pro	55
+VELVET 2218	65	kameleon-pro	55
 VELVET 2219	65	kameleon-pro	55
-VELVET 2220	65	kameleon-pro	15
-VELVET 2221	65	kameleon-pro	15
+VELVET 2220	65	kameleon-pro	55
+VELVET 2221	65	kameleon-pro	55
 VELVET 2222	65	kameleon-pro	55
-VELVET 2223	65	kameleon-pro	15
-VELVET 2224	15	kameleon-pro	15
-VELVET 2225	65	kameleon-pro	15
-VELVET 2226	15	kameleon-pro	15
-VELVET 2227	65	kameleon-pro	15
-VELVET 2228	15	kameleon-pro	15
+VELVET 2223	65	kameleon-pro	55
+VELVET 2224	15	kameleon-pro	0
+VELVET 2225	65	kameleon-pro	55
+VELVET 2226	15	kameleon-pro	0
+VELVET 2227	65	kameleon-pro	55
+VELVET 2228	15	kameleon-pro	0
 VELVET 2229	65	kameleon-pro	55
-VELVET 2230	15	kameleon-pro	15
-VELVET 2231	65	kameleon-pro	15
-VELVET 2232	65	kameleon-pro	15
-VELVET 2233	15	kameleon-pro	15
-VELVET 2234	15	kameleon-pro	15
-VELVET 2235	65	kameleon-pro	15
-VELVET 2236	65	kameleon-pro	15
-VELVET 2237	65	kameleon-pro	15
-VELVET 2238	65	kameleon-pro	15
-VELVET 2239	15	kameleon-pro	15
-VELVET 2240	15	kameleon-pro	15
-VELVET 2241	65	kameleon-pro	15
-VELVET 2242	65	kameleon-pro	15
-VELVET 2243	15	kameleon-pro	15
-VELVET 2244	15	kameleon-pro	15
-VELVET 2245	15	kameleon-pro	15
-VELVET 2246	15	kameleon-pro	15
-VELVET 2247	15	kameleon-pro	15
-VELVET 2248	15	kameleon-pro	15
-VELVET 2249	15	kameleon-pro	15
-VELVET 2250	65	kameleon-pro	15
+VELVET 2230	15	kameleon-pro	0
+VELVET 2231	65	kameleon-pro	55
+VELVET 2232	65	kameleon-pro	55
+VELVET 2233	15	kameleon-pro	0
+VELVET 2234	15	kameleon-pro	0
+VELVET 2235	65	kameleon-pro	55
+VELVET 2236	65	kameleon-pro	55
+VELVET 2237	65	kameleon-pro	55
+VELVET 2238	65	kameleon-pro	55
+VELVET 2239	15	kameleon-pro	0
+VELVET 2240	15	kameleon-pro	0
+VELVET 2241	65	kameleon-pro	55
+VELVET 2242	65	kameleon-pro	55
+VELVET 2243	15	kameleon-pro	0
+VELVET 2244	15	kameleon-pro	0
+VELVET 2245	15	kameleon-pro	0
+VELVET 2246	15	kameleon-pro	0
+VELVET 2247	15	kameleon-pro	0
+VELVET 2248	15	kameleon-pro	0
+VELVET 2249	15	kameleon-pro	0
+VELVET 2250	65	kameleon-pro	55
 VELVET 2251	65	kameleon-pro	55
-VELVET 2252	15	kameleon-pro	15
-VELVET 2253	15	kameleon-pro	15
-VELVET 2254	15	kameleon-pro	15
-VELVET 2255	15	kameleon-pro	15
-VELVET 2256	65	kameleon-pro	15
-VELVET 2257	15	kameleon-pro	15
-VELVET 2258	15	kameleon-pro	15
-VELVET 2259	65	kameleon-pro	15
-VELVET 2260	15	kameleon-pro	15
-VELVET 2261	15	kameleon-pro	15
-VELVET 2262	15	kameleon-pro	15
-VELVET 2263	15	kameleon-pro	15
-VELVET 2264	15	kameleon-pro	15
-VELVET 2265	15	kameleon-pro	15
+VELVET 2252	15	kameleon-pro	0
+VELVET 2253	15	kameleon-pro	0
+VELVET 2254	15	kameleon-pro	0
+VELVET 2255	15	kameleon-pro	0
+VELVET 2256	65	kameleon-pro	55
+VELVET 2257	15	kameleon-pro	0
+VELVET 2258	15	kameleon-pro	0
+VELVET 2259	65	kameleon-pro	55
+VELVET 2260	15	kameleon-pro	0
+VELVET 2261	15	kameleon-pro	0
+VELVET 2262	15	kameleon-pro	0
+VELVET 2263	15	kameleon-pro	0
+VELVET 2264	15	kameleon-pro	0
+VELVET 2265	15	kameleon-pro	0
 VELVET 2266	65	kameleon-pro	55
-VELVET 2267	65	kameleon-pro	15
-VELVET 2268	65	kameleon-pro	15
-VELVET 2269	15	kameleon-pro	15
-VELVET 2270	65	kameleon-pro	15
-VELVET 2271	65	kameleon-pro	15
-VELVET 2272	65	kameleon-pro	15
-VELVET 2273	65	kameleon-pro	15
-VELVET 2274	65	kameleon-pro	15
-VELVET 2275	15	kameleon-pro	15
-VELVET 2276	15	kameleon-pro	15
-VELVET 2277	65	kameleon-pro	15
-VELVET 2278	65	kameleon-pro	15
-VELVET 2279	15	kameleon-pro	15
+VELVET 2267	65	kameleon-pro	55
+VELVET 2268	65	kameleon-pro	55
+VELVET 2269	15	kameleon-pro	0
+VELVET 2270	65	kameleon-pro	55
+VELVET 2271	65	kameleon-pro	55
+VELVET 2272	65	kameleon-pro	55
+VELVET 2273	65	kameleon-pro	55
+VELVET 2274	65	kameleon-pro	55
+VELVET 2275	15	kameleon-pro	0
+VELVET 2276	15	kameleon-pro	0
+VELVET 2277	65	kameleon-pro	55
+VELVET 2278	65	kameleon-pro	55
+VELVET 2279	15	kameleon-pro	0
 VELVET 2280	65	kameleon-pro	55
-VELVET 2281	65	kameleon-pro	15
-VELVET 2282	65	kameleon-pro	15
-VELVET 2283	15	kameleon-pro	15
-VELVET 2284	15	kameleon-pro	15
+VELVET 2281	65	kameleon-pro	55
+VELVET 2282	65	kameleon-pro	55
+VELVET 2283	15	kameleon-pro	0
+VELVET 2284	15	kameleon-pro	0
 VELVET 2285	65	kameleon-pro	55
-VELVET 2286	15	kameleon-pro	15
-VELVET 2287	65	kameleon-pro	15
-VELVET 2288	15	kameleon-pro	15
-VELVET 2289	15	kameleon-pro	15
-VELVET 2290	15	kameleon-pro	15
+VELVET 2286	15	kameleon-pro	0
+VELVET 2287	65	kameleon-pro	55
+VELVET 2288	15	kameleon-pro	0
+VELVET 2289	15	kameleon-pro	0
+VELVET 2290	15	kameleon-pro	0
 VELVET 2291	65	kameleon-pro	55
-VELVET 2292	65	kameleon-pro	15
-VELVET 2293	15	kameleon-pro	15
-VELVET 2294	65	kameleon-pro	15
+VELVET 2292	65	kameleon-pro	55
+VELVET 2293	15	kameleon-pro	0
+VELVET 2294	65	kameleon-pro	55
 VELVET 2295	65	kameleon-pro	55
-VELVET 2296	15	kameleon-pro	15
-VELVET 2297	15	kameleon-pro	15
-VELVET 2298	15	kameleon-pro	15
-VELVET 2299	65	kameleon-pro	15
-KIN388	40	Edentex	25
+VELVET 2296	15	kameleon-pro	0
+VELVET 2297	15	kameleon-pro	0
+VELVET 2298	15	kameleon-pro	0
+VELVET 2299	65	kameleon-pro	55
+KIN388	40	Edentex	5
 KATALOG-NTF	25	berotex	15
 N-40/2-A501-5000-Y	25	berotex	20
 N-40/2-A502-5000-Y	25	berotex	20
@@ -33612,7 +33612,7 @@ MARU	35	Signo	20
 36641854	65	Novatex	60
 17962176	65	Novatex	65
 3259054	20	Novatex	20
-98250	15	Send	
+98250	15	Send	15
 CRIS4	35	Signo	25
 CHRIS12	35	Signo	25
 21497722	25	Cotton art	10
@@ -95050,7 +95050,7 @@ DRAGONFLY	40	Oaza	15
 DOP121	90	Stoklasa.cz	
 KNP814	75	knipidee	50
 937025	80	Mutsaers	80
-937098	80	Mutsaers	80
+937098	80	Mutsaers	50
 937178	80	Mutsaers	80
 937999	80	Knipidee	80
 POL190022	65	Mutsaers	15
@@ -103223,10 +103223,10 @@ DOP892	15	Abtex
 KNP6168980	85	Knipidee	65
 KNP6168069	85	Knipidee	65
 KNP6168100	85	Knipidee	65
-0670999	75	Knipidee	75
+0670999	75	Knipidee	70
 KNP616999	85	Knipidee	65
 14198998	75	Textil Centre	75
-14198999	75	Textil Centre	75
+14198999	75	Textil Centre	70
 14515998	85	Textil Centre	85
 14515999	85	Knipidee	85
 KN0647999	80	Knipidee	80
@@ -107505,7 +107505,7 @@ B04504	35
 162607/290031	10	Stoklasa.cz	
 162607/290032	10	Stoklasa.cz	
 DOP751	70	Květa	
-14511061	70	Nooteboom	15
+14511061	70	Nooteboom	45
 21702/051	50	Nooteboom	20
 13427069	55	Nooteboom	35
 161786/289318	55	Stoklasa.cz	
@@ -108699,3 +108699,4 @@ DOP860997	100
 140319/291178	20	Stoklasa.cz	
 140319/291179	20	Stoklasa.cz	
 140319/291180	20	Stoklasa.cz	
+999/S43	40		
