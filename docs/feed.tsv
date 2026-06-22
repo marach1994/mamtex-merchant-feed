@@ -2935,7 +2935,7 @@ VZ0189	30		15
 348778-ZEL	65		60
 366268-CYK	65		60
 366285-BIL	65		60
-KNM6088	40		30
+KNM6088	60		30
 KNM6050	40	Květa	30
 WN15097	40	Wilitex	5
 RS0023050	60	Quality Textiles	50
@@ -22326,7 +22326,7 @@ DSD024	35	DS Digi Agentura	25
 89201/255513	50	Stoklasa.cz	
 94872/201928	15	Stoklasa.cz	
 94872/255513	15	Stoklasa.cz	
-126813/239733	-55	Stoklasa.cz	
+126813/239733	-50	Stoklasa.cz	
 126814/239733	15	Stoklasa.cz	
 126815/239733	10	Stoklasa.cz	
 145819/263567	50	Stoklasa.cz	
@@ -34573,8 +34573,8 @@ EFES	0	Centex	0
 118777/163619	35	Stoklasa.cz	
 118779/156695	10	Stoklasa.cz	
 118779/163619	10	Stoklasa.cz	
-57629/156695	30	Stoklasa.cz	
-57629/163619	30	Stoklasa.cz	
+57629/156695	35	Stoklasa.cz	
+57629/163619	35	Stoklasa.cz	
 5656151	45	Mutsaers	35
 5656652	45	Rumitex	35
 TWISTUZ001	55	Ricciarini	25
@@ -35358,7 +35358,7 @@ S84765473	45	Textil Centre	35
 170226	10	Stoklasa	0
 DAISY	30	Signo	20
 BLACKDOG	30	Signo	15
-JEZEVCIK	30	Signo	15
+JEZEVCIK	30	Signo	
 MARP007	65		60
 S2030009	45	Textil Centre	40
 S20311001	40	Textil Centre	35
@@ -59093,7 +59093,7 @@ KNH465	40	Květa	30
 146878/265055	25	Stoklasa.cz	
 146879/265055	10	Stoklasa.cz	
 146895/265066	55	Stoklasa.cz	
-146896/265066	35	Stoklasa.cz	
+146896/265066	30	Stoklasa.cz	
 147188/265332	40	Stoklasa.cz	
 147189/265332	20	Stoklasa.cz	
 147149/265310	30	Stoklasa.cz	
@@ -60335,7 +60335,7 @@ KNH465	40	Květa	30
 154934/277581	10	Stoklasa.cz	
 154934/277705	10	Stoklasa.cz	
 154934/277706	10	Stoklasa.cz	
-154935/277582	20	Stoklasa.cz	
+154935/277582	25	Stoklasa.cz	
 154936/277582	10	Stoklasa.cz	
 155026/277648	25	Stoklasa.cz	
 155027/277648	15	Stoklasa.cz	
@@ -60894,7 +60894,7 @@ BNG367	55		15
 155916/279684	20	Stoklasa.cz	
 155916/279685	20	Stoklasa.cz	
 155916/279686	20	Stoklasa.cz	
-155490/278273	30	Stoklasa.cz	
+155490/278273	35	Stoklasa.cz	
 155491/278273	10	Stoklasa.cz	
 140545/256842	30	Stoklasa.cz	
 140546/256842	15	Stoklasa.cz	
@@ -94913,7 +94913,7 @@ KNP0168	75	knipidee	55
 127215/MOD	25	Stoklasa.cz	
 127215/RUZ	25	Stoklasa.cz	
 PRTEPLAK2	90		
-PRUPL3	90		90
+PRUPL3	85		90
 PRUPL4	90		90
 PRSILK2	90		
 2846B	35		65
@@ -109232,3 +109232,26 @@ DOP015	70
 DOP016	50	Cameleon	
 DOP017	10	Verhees	
 DOP018	55	knipidee	
+DOP019	60	Signo	
+DOP020	60	Signo	
+DOP021	50	Signo	
+DOP022	-130		
+DOP023	65	Signo	
+ANA8	20	Signo	
+DOP025	40	Oaza	
+DOP026	45	Oaza	
+DOP027	40	Mutsaers	
+DOP028	40	Mutsaers	
+DOP029	65	Textil Centre	
+DOP030	20	Verhees	
+DOP031	40	Nooteboom	
+DOP032	30	Textil Centre	
+DOP033	55	Mutsaers	
+DOP034	25	Biondi Tessuti	
+DOP035	15	Abtex	
+DOP036	35	Rumitex	
+CP2406548	75	Ciperka	65
+CP2701922	75	Ciperka	65
+DOP037	50	knipidee	
+DOP038	55	Květa	
+DOP039	35	Květa	
