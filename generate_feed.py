@@ -22,7 +22,7 @@ log = logging.getLogger(__name__)
 def fetch_csv(url: str) -> str:
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            resp = requests.get(url, timeout=30)
+            resp = requests.get(url, timeout=(15, 180))
             resp.raise_for_status()
             return resp.content.decode("windows-1250")
         except requests.RequestException as exc:
