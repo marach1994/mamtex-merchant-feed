@@ -11463,15 +11463,15 @@ AUTOLATKABB1978L	40	Tenatex	35
 113874/203124	10	Stoklasa.cz	
 113874/214872	10	Stoklasa.cz	
 113874/286422	10	Stoklasa.cz	
-89976/203123	55	Stoklasa.cz	
-89976/203124	55	Stoklasa.cz	
+89976/203123	50	Stoklasa.cz	
+89976/203124	50	Stoklasa.cz	
 89976/214872	35	Stoklasa.cz	
 89976/232365	10	Stoklasa.cz	0
-89976/286422	55	Stoklasa.cz	
-89977/203123	35	Stoklasa.cz	
-89977/203124	35	Stoklasa.cz	
+89976/286422	50	Stoklasa.cz	
+89977/203123	25	Stoklasa.cz	
+89977/203124	25	Stoklasa.cz	
 89977/214872	35	Stoklasa.cz	
-89977/286422	35	Stoklasa.cz	
+89977/286422	25	Stoklasa.cz	
 90830/205176	25	Stoklasa.cz	
 90830/205177	25	Stoklasa.cz	
 90831/205176	35	Stoklasa.cz	
@@ -11622,7 +11622,7 @@ PRUPL2	90
 37613/96748	55	Stoklasa.cz	
 140337/148621	15	Stoklasa.cz	
 51217/148621	45	Stoklasa.cz	
-51668/148621	10	Stoklasa.cz	
+51668/148621	5	Stoklasa.cz	
 20449111	40	Nooteboom	20
 122338/195908	5	Stoklasa.cz	
 82606/195908	15	Stoklasa.cz	
@@ -12358,7 +12358,7 @@ ENOA304	15	Oaza	0
 ENOA32	15	Oaza	5
 01647006	50	Oaza	0
 MOON	45		25
-6669607	40	Novatex	30
+6669607	40	Novatex	20
 6669200	40	Novatex	30
 20426022	45	Nooteboom	20
 141079/257523	25	Stoklasa.cz	
@@ -13535,10 +13535,10 @@ SDL388	45	Edentex	15
 120466/234319	10	Stoklasa.cz	
 120466/256411	20	Stoklasa.cz	
 120466/256412	10	Stoklasa.cz	
-74967/183131	-60	Stoklasa.cz	
+74967/183131	-75	Stoklasa.cz	
 74967/200114	35	Stoklasa.cz	
 74967/206280	25	Stoklasa.cz	
-74967/206281	-60	Stoklasa.cz	
+74967/206281	-75	Stoklasa.cz	
 74967/227868	25	Stoklasa.cz	
 74967/230042	25	Stoklasa.cz	
 74967/230044	10	Stoklasa.cz	0
@@ -22125,7 +22125,7 @@ DSD024	35	DS Digi Agentura	25
 83964/197281	35	Stoklasa.cz	
 83964/247866	35	Stoklasa.cz	
 135074/197295	25	Stoklasa.cz	
-135074/236927	30	Stoklasa.cz	
+135074/236927	25	Stoklasa.cz	
 83983/197295	25	Stoklasa.cz	
 83983/236927	25	Stoklasa.cz	
 83984/197295	10	Stoklasa.cz	
@@ -23376,11 +23376,11 @@ S5187	30	Signo	20
 122236/198395	10	Stoklasa.cz	
 122236/209429	10	Stoklasa.cz	
 122236/228250	10	Stoklasa.cz	
-77712/188098	25	Stoklasa.cz	
+77712/188098	20	Stoklasa.cz	
 77712/198394	45	Stoklasa.cz	
-77712/198395	25	Stoklasa.cz	
-77712/209429	25	Stoklasa.cz	
-77712/228250	25	Stoklasa.cz	
+77712/198395	20	Stoklasa.cz	
+77712/209429	20	Stoklasa.cz	
+77712/228250	20	Stoklasa.cz	
 96293/188098	15	Stoklasa.cz	
 96293/198394	15	Stoklasa.cz	
 96293/198395	15	Stoklasa.cz	
@@ -23489,7 +23489,7 @@ S5187	30	Signo	20
 136923/251831	-55	Stoklasa.cz	
 136924/251831	15	Stoklasa.cz	
 136925/251831	10	Stoklasa.cz	
-136920/251830	30	Stoklasa.cz	
+136920/251830	25	Stoklasa.cz	
 136921/251830	15	Stoklasa.cz	
 136922/251830	10	Stoklasa.cz	
 140732/256939	10	Stoklasa.cz	
@@ -30935,12 +30935,12 @@ SP826	35	Signo	20
 150630/186499	10	Stoklasa.cz	
 150630/239066	10	Stoklasa.cz	
 20469/114007	60	Stoklasa.cz	
-20469/186499	50	Stoklasa.cz	
-20469/239066	50	Stoklasa.cz	
+20469/186499	45	Stoklasa.cz	
+20469/239066	45	Stoklasa.cz	
 36572/114007	10	Stoklasa.cz	
 36572/159935	10	Stoklasa.cz	
-36572/186499	25	Stoklasa.cz	
-36572/239066	25	Stoklasa.cz	
+36572/186499	15	Stoklasa.cz	
+36572/239066	15	Stoklasa.cz	
 81462/194401	45	Stoklasa.cz	
 81462/194405	50	Stoklasa.cz	
 81462/198390	45	Stoklasa.cz	
@@ -32048,7 +32048,7 @@ SP826	35	Signo	20
 122228/200346	35	Stoklasa.cz	
 122228/233305	30	Stoklasa.cz	
 87980/200346	50	Stoklasa.cz	
-87980/233305	45	Stoklasa.cz	
+87980/233305	40	Stoklasa.cz	
 87981/233305	25	Stoklasa.cz	
 106758/200733	35	Stoklasa.cz	
 106759/200733	10	Stoklasa.cz	
@@ -32488,10 +32488,10 @@ SP826	35	Signo	20
 147899/277967	25	Stoklasa.cz	
 147900/267298	10	Stoklasa.cz	
 147900/277967	10	Stoklasa.cz	
-148826/267675	55	Stoklasa.cz	
-148826/267676	55	Stoklasa.cz	
-148827/267675	35	Stoklasa.cz	
-148827/267676	35	Stoklasa.cz	
+148826/267675	50	Stoklasa.cz	
+148826/267676	50	Stoklasa.cz	
+148827/267675	25	Stoklasa.cz	
+148827/267676	25	Stoklasa.cz	
 148828/267675	10	Stoklasa.cz	
 148828/267676	10	Stoklasa.cz	
 149685/269254	10	Stoklasa.cz	
@@ -32761,8 +32761,8 @@ SP826	35	Signo	20
 140907/257323	55	Stoklasa.cz	
 140909/257323	35	Stoklasa.cz	
 150570/257323	10	Stoklasa.cz	
-141051/257433	30	Stoklasa.cz	
-141052/257433	25	Stoklasa.cz	
+141051/257433	15	Stoklasa.cz	
+141052/257433	10	Stoklasa.cz	
 141032/257428	55	Stoklasa.cz	
 141032/257429	55	Stoklasa.cz	
 141032/257430	55	Stoklasa.cz	
@@ -39481,20 +39481,20 @@ KNH465	40	Květa	30
 154692/277226	10	Stoklasa.cz	
 154692/277227	10	Stoklasa.cz	
 154692/277228	10	Stoklasa.cz	
-111915/135683	10	Stoklasa.cz	
+111915/135683	20	Stoklasa.cz	
 111915/211352	10	Stoklasa.cz	
-111915/244019	10	Stoklasa.cz	
-111915/47242	10	Stoklasa.cz	
+111915/244019	20	Stoklasa.cz	
+111915/47242	20	Stoklasa.cz	
 111915/48156	10	Stoklasa.cz	
-95436/135683	10	Stoklasa.cz	
-95436/211352	10	Stoklasa.cz	
-95436/244019	10	Stoklasa.cz	
-95436/47242	10	Stoklasa.cz	
+95436/135683	20	Stoklasa.cz	
+95436/211352	20	Stoklasa.cz	
+95436/244019	20	Stoklasa.cz	
+95436/47242	20	Stoklasa.cz	
 95436/48156	10	Stoklasa.cz	
-988/135683	35	Stoklasa.cz	
-988/211352	35	Stoklasa.cz	
-988/244019	35	Stoklasa.cz	
-988/47242	35	Stoklasa.cz	
+988/135683	40	Stoklasa.cz	
+988/211352	40	Stoklasa.cz	
+988/244019	40	Stoklasa.cz	
+988/47242	40	Stoklasa.cz	
 988/48156	35	Stoklasa.cz	
 117847/123198	10	Stoklasa.cz	
 51628/123198	10	Stoklasa.cz	
@@ -48140,13 +48140,13 @@ KNH465	40	Květa	30
 107482/214267	10	Stoklasa.cz	
 107482/273591	10	Stoklasa.cz	
 107482/273592	10	Stoklasa.cz	
-105183/214930	45	Stoklasa.cz	
+105183/214930	55	Stoklasa.cz	
 105183/214931	60	Stoklasa.cz	
 105183/214932	50	Stoklasa.cz	
 105183/273074	50	Stoklasa.cz	
 105183/273075	55	Stoklasa.cz	
 105183/277564	55	Stoklasa.cz	
-105184/214930	15	Stoklasa.cz	
+105184/214930	35	Stoklasa.cz	
 105184/214931	35	Stoklasa.cz	
 105184/214932	25	Stoklasa.cz	
 105184/273074	35	Stoklasa.cz	
@@ -54845,26 +54845,26 @@ KNH465	40	Květa	30
 150007/270330	15	Stoklasa.cz	
 150007/270331	15	Stoklasa.cz	
 150007/270332	15	Stoklasa.cz	
-150002/270282	45	Stoklasa.cz	
+150002/270282	40	Stoklasa.cz	
 150002/270283	45	Stoklasa.cz	
-150002/270284	45	Stoklasa.cz	
-150002/270285	45	Stoklasa.cz	
-150002/270286	45	Stoklasa.cz	
-150002/270287	45	Stoklasa.cz	
-150002/270288	45	Stoklasa.cz	
-150002/270289	45	Stoklasa.cz	
-150002/270290	45	Stoklasa.cz	
-150002/270291	45	Stoklasa.cz	
-150003/270282	35	Stoklasa.cz	
+150002/270284	40	Stoklasa.cz	
+150002/270285	40	Stoklasa.cz	
+150002/270286	40	Stoklasa.cz	
+150002/270287	40	Stoklasa.cz	
+150002/270288	40	Stoklasa.cz	
+150002/270289	40	Stoklasa.cz	
+150002/270290	40	Stoklasa.cz	
+150002/270291	40	Stoklasa.cz	
+150003/270282	25	Stoklasa.cz	
 150003/270283	35	Stoklasa.cz	
-150003/270284	35	Stoklasa.cz	
-150003/270285	35	Stoklasa.cz	
-150003/270286	35	Stoklasa.cz	
-150003/270287	35	Stoklasa.cz	
-150003/270288	35	Stoklasa.cz	
-150003/270289	35	Stoklasa.cz	
-150003/270290	35	Stoklasa.cz	
-150003/270291	35	Stoklasa.cz	
+150003/270284	25	Stoklasa.cz	
+150003/270285	25	Stoklasa.cz	
+150003/270286	25	Stoklasa.cz	
+150003/270287	25	Stoklasa.cz	
+150003/270288	25	Stoklasa.cz	
+150003/270289	25	Stoklasa.cz	
+150003/270290	25	Stoklasa.cz	
+150003/270291	25	Stoklasa.cz	
 150004/270313	40	Stoklasa.cz	
 150004/270314	40	Stoklasa.cz	
 150004/270315	40	Stoklasa.cz	
@@ -60485,7 +60485,7 @@ KNH465	40	Květa	30
 79862/191401	40	Stoklasa.cz	
 96765/191401	20	Stoklasa.cz	
 134750/249643	40	Stoklasa.cz	
-134751/249643	15	Stoklasa.cz	
+134751/249643	20	Stoklasa.cz	
 105300/252008	10	Stoklasa.cz	
 105300/252024	10	Stoklasa.cz	
 105300/269506	10	Stoklasa.cz	
@@ -62087,9 +62087,9 @@ SDL389	45	Edentex	20
 122614/232968	45	Stoklasa.cz	
 122615/232968	15	Stoklasa.cz	
 122616/232968	10	Stoklasa.cz	
-148203/266892	45	Stoklasa.cz	
-148204/266892	15	Stoklasa.cz	
-148205/266892	10	Stoklasa.cz	
+148203/266892	35	Stoklasa.cz	
+148204/266892	10	Stoklasa.cz	
+148205/266892	5	Stoklasa.cz	
 149795/269612	55	Stoklasa.cz	
 149795/273486	55	Stoklasa.cz	
 149795/273487	55	Stoklasa.cz	
@@ -65653,8 +65653,8 @@ ZBYTEK019	-15	Signo	-35
 140303/279947	5	Stoklasa.cz	
 140303/289773	5	Stoklasa.cz	
 140303/289774	5	Stoklasa.cz	
-142397/259144	15	Stoklasa.cz	
-142398/259144	10	Stoklasa.cz	
+142397/259144	30	Stoklasa.cz	
+142398/259144	15	Stoklasa.cz	
 142882/259744	30	Stoklasa.cz	
 142882/259746	30	Stoklasa.cz	
 142882/259747	30	Stoklasa.cz	
@@ -73555,7 +73555,7 @@ KONSOFA	15	kameleon-pro	5
 61641/197963	5	Stoklasa.cz	
 61641/241221	5	Stoklasa.cz	
 61641/271942	5	Stoklasa.cz	
-118849/163498	25	Stoklasa.cz	
+118849/163498	15	Stoklasa.cz	
 118849/163502	15	Stoklasa.cz	
 118849/163503	35	Stoklasa.cz	
 118849/163505	15	Stoklasa.cz	
@@ -73796,7 +73796,7 @@ KONSOFA	15	kameleon-pro	5
 83240/252682	10	Stoklasa.cz	
 100839/162097	55	Stoklasa.cz	
 120748/162097	35	Stoklasa.cz	
-120749/162097	5	Stoklasa.cz	
+120749/162097	10	Stoklasa.cz	
 118959/133624	35	Stoklasa.cz	
 118959/133626	35	Stoklasa.cz	
 118959/152847	35	Stoklasa.cz	
@@ -75048,32 +75048,32 @@ KONSOFA	15	kameleon-pro	5
 97219/274462	10	Stoklasa.cz	
 97219/292031	10	Stoklasa.cz	
 119792/162116	15	Stoklasa.cz	
-119792/182321	15	Stoklasa.cz	
+119792/182321	35	Stoklasa.cz	
 119792/182322	25	Stoklasa.cz	
-119792/182323	15	Stoklasa.cz	
+119792/182323	35	Stoklasa.cz	
 119792/182324	25	Stoklasa.cz	
-119792/191415	15	Stoklasa.cz	
+119792/191415	35	Stoklasa.cz	
 119792/206058	35	Stoklasa.cz	
 119792/210954	15	Stoklasa.cz	
 119792/222704	25	Stoklasa.cz	
-119792/222705	15	Stoklasa.cz	
+119792/222705	35	Stoklasa.cz	
 119792/242715	35	Stoklasa.cz	
 119792/271982	20	Stoklasa.cz	
-119792/283737	15	Stoklasa.cz	
+119792/283737	35	Stoklasa.cz	
 119792/285016	15	Stoklasa.cz	
 60838/162116	45	Stoklasa.cz	
-60838/182321	45	Stoklasa.cz	
+60838/182321	55	Stoklasa.cz	
 60838/182322	45	Stoklasa.cz	
-60838/182323	45	Stoklasa.cz	
+60838/182323	55	Stoklasa.cz	
 60838/182324	50	Stoklasa.cz	
-60838/191415	45	Stoklasa.cz	
+60838/191415	55	Stoklasa.cz	
 60838/206058	60	Stoklasa.cz	
 60838/210954	45	Stoklasa.cz	
 60838/222704	50	Stoklasa.cz	
-60838/222705	45	Stoklasa.cz	
+60838/222705	55	Stoklasa.cz	
 60838/242715	60	Stoklasa.cz	
-60838/271982	45	Stoklasa.cz	
-60838/283737	45	Stoklasa.cz	
+60838/271982	55	Stoklasa.cz	
+60838/283737	55	Stoklasa.cz	
 60838/285016	45	Stoklasa.cz	
 61177/162116	10	Stoklasa.cz	
 61177/182321	10	Stoklasa.cz	
@@ -76788,14 +76788,14 @@ KONSOFA	15	kameleon-pro	5
 138038/253112	10	Stoklasa.cz	
 138038/253113	35	Stoklasa.cz	
 138038/277293	35	Stoklasa.cz	
-138039/253106	10	Stoklasa.cz	
-138039/253107	10	Stoklasa.cz	
+138039/253106	5	Stoklasa.cz	
+138039/253107	5	Stoklasa.cz	
 138039/253108	10	Stoklasa.cz	
 138039/253109	10	Stoklasa.cz	
-138039/253110	10	Stoklasa.cz	
+138039/253110	5	Stoklasa.cz	
 138039/253111	10	Stoklasa.cz	
-138039/253113	10	Stoklasa.cz	
-138039/277293	10	Stoklasa.cz	
+138039/253113	5	Stoklasa.cz	
+138039/277293	5	Stoklasa.cz	
 138395/253601	45	Stoklasa.cz	
 138395/256307	45	Stoklasa.cz	
 138395/272070	45	Stoklasa.cz	
@@ -78504,10 +78504,10 @@ KONSOFA	15	kameleon-pro	5
 146145/262673	10	Stoklasa.cz	
 146145/262674	10	Stoklasa.cz	
 144984/262676	50	Stoklasa.cz	
-144984/262677	55	Stoklasa.cz	
+144984/262677	50	Stoklasa.cz	
 144984/262678	55	Stoklasa.cz	
 144985/262676	25	Stoklasa.cz	
-144985/262677	35	Stoklasa.cz	
+144985/262677	25	Stoklasa.cz	
 144985/262678	35	Stoklasa.cz	
 144986/262676	10	Stoklasa.cz	
 144986/262677	10	Stoklasa.cz	
@@ -80275,8 +80275,8 @@ KONSOFA	15	kameleon-pro	5
 111723/250577	30	Stoklasa.cz	
 111733/219962	40	Stoklasa.cz	
 111733/226221	40	Stoklasa.cz	
-111734/219962	25	Stoklasa.cz	
-111734/226221	25	Stoklasa.cz	
+111734/219962	35	Stoklasa.cz	
+111734/226221	35	Stoklasa.cz	
 112523/220812	30	Stoklasa.cz	
 112524/220812	15	Stoklasa.cz	
 112525/220817	15	Stoklasa.cz	
@@ -87072,7 +87072,7 @@ KONSOFA	15	kameleon-pro	5
 145590/263388	55	Stoklasa.cz	
 145591/263388	35	Stoklasa.cz	
 145592/263388	10	Stoklasa.cz	
-145602/263432	35	Stoklasa.cz	
+145602/263432	25	Stoklasa.cz	
 145603/263432	10	Stoklasa.cz	
 145655/263415	15	Stoklasa.cz	
 145655/263416	15	Stoklasa.cz	
@@ -88544,7 +88544,7 @@ KONSOFA	15	kameleon-pro	5
 151872/273356	20	Stoklasa.cz	
 151880/273368	35	Stoklasa.cz	
 151881/273368	10	Stoklasa.cz	
-151877/273367	15	Stoklasa.cz	
+151877/273367	35	Stoklasa.cz	
 151878/273367	10	Stoklasa.cz	
 151874/273366	25	Stoklasa.cz	
 151875/273366	10	Stoklasa.cz	
@@ -90634,8 +90634,8 @@ KONSOFA	15	kameleon-pro	5
 157300/281687	15	Stoklasa.cz	
 157886/282395	15	Stoklasa.cz	
 157888/282395	10	Stoklasa.cz	
-157890/282396	20	Stoklasa.cz	
-157890/282430	20	Stoklasa.cz	
+157890/282396	15	Stoklasa.cz	
+157890/282430	15	Stoklasa.cz	
 157892/282396	10	Stoklasa.cz	
 157892/282430	10	Stoklasa.cz	
 157894/282499	25	Stoklasa.cz	
@@ -90823,7 +90823,7 @@ SOJE59	55		20
 SOJE665	55		20
 SOJE675	55		45
 SOJE686	55		20
-SOJE883	55		15
+SOJE883	55		35
 SOJE923	55		20
 SOJE924	55		5
 SOJE935	55		20
@@ -91217,7 +91217,7 @@ SIGROSA2	50	Signo	20
 590320532	55	Cameleon	15
 590320562	65	Cameleon	20
 590320567	65	Cameleon	15
-590320570	60	Cameleon	35
+590320570	60	Cameleon	40
 590320595	65	Cameleon	60
 590320635	35	Cameleon	20
 590320636	40	Cameleon	20
@@ -91979,17 +91979,17 @@ PRED03683036	20	Verhees
 158764/284077	15	Stoklasa.cz	
 158924/199329	10	Stoklasa.cz	
 99600/199329	35	Stoklasa.cz	
-147584/266186	45	Stoklasa.cz	
-147584/266187	45	Stoklasa.cz	
-147584/266188	45	Stoklasa.cz	
-147584/266189	45	Stoklasa.cz	
-147584/266190	45	Stoklasa.cz	
-147584/266191	45	Stoklasa.cz	
-147584/266192	45	Stoklasa.cz	
-147584/266194	45	Stoklasa.cz	
-147584/266195	45	Stoklasa.cz	
-147584/266196	45	Stoklasa.cz	
-147584/266197	45	Stoklasa.cz	
+147584/266186	50	Stoklasa.cz	
+147584/266187	50	Stoklasa.cz	
+147584/266188	50	Stoklasa.cz	
+147584/266189	50	Stoklasa.cz	
+147584/266190	50	Stoklasa.cz	
+147584/266191	50	Stoklasa.cz	
+147584/266192	50	Stoklasa.cz	
+147584/266194	50	Stoklasa.cz	
+147584/266195	50	Stoklasa.cz	
+147584/266196	50	Stoklasa.cz	
+147584/266197	50	Stoklasa.cz	
 147585/266186	25	Stoklasa.cz	
 147585/266187	25	Stoklasa.cz	
 147585/266188	25	Stoklasa.cz	
@@ -96278,12 +96278,12 @@ K30013008	70	Ricciarini	30
 159487/285113	35	Stoklasa.cz	
 159489/285112	10	Stoklasa.cz	
 159489/285113	10	Stoklasa.cz	
-154549/277288	40	Stoklasa.cz	
-154549/285184	40	Stoklasa.cz	
-154549/285185	40	Stoklasa.cz	
-154550/277288	20	Stoklasa.cz	
-154550/285184	20	Stoklasa.cz	
-154550/285185	20	Stoklasa.cz	
+154549/277288	30	Stoklasa.cz	
+154549/285184	30	Stoklasa.cz	
+154549/285185	30	Stoklasa.cz	
+154550/277288	15	Stoklasa.cz	
+154550/285184	15	Stoklasa.cz	
+154550/285185	15	Stoklasa.cz	
 159577/285311	30	Stoklasa.cz	
 159577/285312	30	Stoklasa.cz	
 159577/285313	30	Stoklasa.cz	
@@ -98491,7 +98491,7 @@ DOP202	55	Stanpol
 159932/285972	20	Stoklasa.cz	
 159932/285973	20	Stoklasa.cz	
 119733/228964	25	Stoklasa.cz	
-126421/228964	20	Stoklasa.cz	
+126421/228964	15	Stoklasa.cz	
 160154/286343	40	Stoklasa.cz	
 160155/286343	20	Stoklasa.cz	
 160137/286229	25	Stoklasa.cz	
@@ -107902,7 +107902,7 @@ K80001432	35	Quality Textiles	20
 161117/287993	20	Stoklasa.cz	
 161117/287994	20	Stoklasa.cz	
 161117/287995	20	Stoklasa.cz	
-161113/288030	40	Stoklasa.cz	
+161113/288030	30	Stoklasa.cz	
 161113/288031	40	Stoklasa.cz	
 161114/288030	20	Stoklasa.cz	
 161114/288031	20	Stoklasa.cz	
@@ -146912,3 +146912,4 @@ DOP403	15
 166381/295170	15	Stoklasa.cz	
 167044/295788	40	Stoklasa.cz	
 167045/295788	20	Stoklasa.cz	
+2090850	60	Cameleon	
